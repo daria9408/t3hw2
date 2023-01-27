@@ -1,0 +1,15 @@
+C:\repo\Thema_3\exp_2_S_2\exp001\bin\Debug\net6.0\exp001.exe
+C:\repo\Thema_3\exp_2_S_2\exp001\bin\Debug\net6.0\exp001.deps.json
+C:\repo\Thema_3\exp_2_S_2\exp001\bin\Debug\net6.0\exp001.runtimeconfig.json
+C:\repo\Thema_3\exp_2_S_2\exp001\bin\Debug\net6.0\exp001.dll
+C:\repo\Thema_3\exp_2_S_2\exp001\bin\Debug\net6.0\exp001.pdb
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\exp001.csproj.AssemblyReference.cache
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\exp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\exp001.AssemblyInfoInputs.cache
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\exp001.AssemblyInfo.cs
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\exp001.csproj.CoreCompileInputs.cache
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\exp001.dll
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\refint\exp001.dll
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\exp001.pdb
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\exp001.genruntimeconfig.cache
+C:\repo\Thema_3\exp_2_S_2\exp001\obj\Debug\net6.0\ref\exp001.dll
